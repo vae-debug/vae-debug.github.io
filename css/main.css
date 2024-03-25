@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff6a82;
+  background: #ff5;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2689,7 +2689,7 @@ ul.breadcrumb li + li:last-child {
 }
 @media screen and (min-width: 1200px) {
   body {
-    background-image: url("/images/1.jpg");
+    background-image: url("/images/freecompress-1.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: 50% 50%;
