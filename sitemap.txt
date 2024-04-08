@@ -1,3 +1,4 @@
+http://vae-debug.com/2024/04/08/0033/
 http://vae-debug.com/about/index.html
 http://vae-debug.com/2024/03/21/%E9%9A%8F%E7%AC%94/
 http://vae-debug.com/2024/03/20/%E6%91%98%E5%BD%95/
@@ -6,6 +7,8 @@ http://vae-debug.com/resources/index.html
 http://vae-debug.com/tags/index.html
 http://vae-debug.com/categories/index.html
 http://vae-debug.com/
+http://vae-debug.com/tags/Spring-Boot/
 http://vae-debug.com/tags/%E8%AF%97%E6%96%87/
 http://vae-debug.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/
+http://vae-debug.com/categories/%E5%B7%A5%E4%BD%9C%E6%9D%82%E5%AD%A6/
 http://vae-debug.com/categories/%E9%9B%85/
